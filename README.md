@@ -1,3 +1,8 @@
+theme: midnight-theme
+title: Welcome to my homepage!
+description: Feel free to bookmark this and see my progress.
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/FarmerA293/FarmerA293.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
