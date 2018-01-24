@@ -1,4 +1,4 @@
-theme: midnight-theme
+theme: jekyll-theme-cayman
 title: Welcome to my homepage!
 description: Feel free to bookmark this and see my progress.
 
